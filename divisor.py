@@ -4,12 +4,13 @@ from __future__ import division
 
 print "   -------------------"
 print "   |                  /"
-print "   |                  \ r1 "
-print " -----                /   "
+print "   |                  \ R1 "
+print "   |                  / "
+print " -----                |   "
 print "  ---  V              ---* Vmedio   " 
 print "   |                  |   "
 print "   |                  /"
-print "   |                  \ r2"
+print "   |                  \ R2"
 print "   |                  /   "
 print "   -------------------    "
 
